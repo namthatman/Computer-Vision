@@ -1,4 +1,4 @@
-Following the Udemy course, "Deep Learning and Computer Vision A-Z™: OpenCV, SSD & GANs", by Kirill Eremenko, Hadelin de Ponteves, SuperDataScience Team
+CREDIT: Udemy course, "Deep Learning and Computer Vision A-Z™: OpenCV, SSD & GANs", by Kirill Eremenko, Hadelin de Ponteves, SuperDataScience Team
 
 # Computer-Vision
 ## Fashion Class Classification
